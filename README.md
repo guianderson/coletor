@@ -159,3 +159,11 @@ o banco de dados.
 ```sh
 con = psycopg2.connect(host='localhost', database='alejandro', user='postgres', password='postgres')
 ```
+
+#### 5. Executando projeto
+
+Para executar o projeto basta estar dentro da pasta **core** e executar: 
+
+```sh
+python main.py
+```
